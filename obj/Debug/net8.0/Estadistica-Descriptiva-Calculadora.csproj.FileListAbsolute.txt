@@ -1,0 +1,14 @@
+C:\Users\migue\OneDrive - Universidad Privada Domingo Savio\PROYECTOS\Estadistica-Descriptiva-Calculadora\bin\Debug\net8.0\Estadistica-Descriptiva-Calculadora.exe
+C:\Users\migue\OneDrive - Universidad Privada Domingo Savio\PROYECTOS\Estadistica-Descriptiva-Calculadora\bin\Debug\net8.0\Estadistica-Descriptiva-Calculadora.deps.json
+C:\Users\migue\OneDrive - Universidad Privada Domingo Savio\PROYECTOS\Estadistica-Descriptiva-Calculadora\bin\Debug\net8.0\Estadistica-Descriptiva-Calculadora.runtimeconfig.json
+C:\Users\migue\OneDrive - Universidad Privada Domingo Savio\PROYECTOS\Estadistica-Descriptiva-Calculadora\bin\Debug\net8.0\Estadistica-Descriptiva-Calculadora.dll
+C:\Users\migue\OneDrive - Universidad Privada Domingo Savio\PROYECTOS\Estadistica-Descriptiva-Calculadora\bin\Debug\net8.0\Estadistica-Descriptiva-Calculadora.pdb
+C:\Users\migue\OneDrive - Universidad Privada Domingo Savio\PROYECTOS\Estadistica-Descriptiva-Calculadora\obj\Debug\net8.0\Estadistica-Descriptiva-Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\OneDrive - Universidad Privada Domingo Savio\PROYECTOS\Estadistica-Descriptiva-Calculadora\obj\Debug\net8.0\Estadistica-Descriptiva-Calculadora.AssemblyInfoInputs.cache
+C:\Users\migue\OneDrive - Universidad Privada Domingo Savio\PROYECTOS\Estadistica-Descriptiva-Calculadora\obj\Debug\net8.0\Estadistica-Descriptiva-Calculadora.AssemblyInfo.cs
+C:\Users\migue\OneDrive - Universidad Privada Domingo Savio\PROYECTOS\Estadistica-Descriptiva-Calculadora\obj\Debug\net8.0\Estadistica-Descriptiva-Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive - Universidad Privada Domingo Savio\PROYECTOS\Estadistica-Descriptiva-Calculadora\obj\Debug\net8.0\Estadistica-Descriptiva-Calculadora.dll
+C:\Users\migue\OneDrive - Universidad Privada Domingo Savio\PROYECTOS\Estadistica-Descriptiva-Calculadora\obj\Debug\net8.0\refint\Estadistica-Descriptiva-Calculadora.dll
+C:\Users\migue\OneDrive - Universidad Privada Domingo Savio\PROYECTOS\Estadistica-Descriptiva-Calculadora\obj\Debug\net8.0\Estadistica-Descriptiva-Calculadora.pdb
+C:\Users\migue\OneDrive - Universidad Privada Domingo Savio\PROYECTOS\Estadistica-Descriptiva-Calculadora\obj\Debug\net8.0\Estadistica-Descriptiva-Calculadora.genruntimeconfig.cache
+C:\Users\migue\OneDrive - Universidad Privada Domingo Savio\PROYECTOS\Estadistica-Descriptiva-Calculadora\obj\Debug\net8.0\ref\Estadistica-Descriptiva-Calculadora.dll
