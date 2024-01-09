@@ -3,11 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Globalization;
+using System.Security.Cryptography.X509Certificates;
 
 namespace Estadistica_Descriptiva_Calculadora
 {
   public class ordenarNumeros
   {
+    public static List<double> numeros = new List<double>();
 
     public static void ordNumeros()
     {
@@ -18,7 +20,7 @@ namespace Estadistica_Descriptiva_Calculadora
       char[] separators = { '-', ';', ' ' };
       string[] numberStrings = input.Split(separators, StringSplitOptions.RemoveEmptyEntries);
 
-      List<double> numeros = new List<double>();
+      
       foreach (var numberString in numberStrings)
       {
         if (double.TryParse(numberString, out double numero))
@@ -33,6 +35,7 @@ namespace Estadistica_Descriptiva_Calculadora
 
       numeros.Sort();
 
+      Console.Clear();
       Console.WriteLine("Números ordenados de menor a mayor:");
       foreach (var numero in numeros)
       {

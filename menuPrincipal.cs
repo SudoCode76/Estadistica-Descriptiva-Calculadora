@@ -15,8 +15,9 @@ namespace Estadistica_Descriptiva_Calculadora
             Console.WriteLine("2. Calcular numero de intervalos");
             Console.WriteLine("3. Calcular Amplitud");
             Console.WriteLine("4. Ordernar numeros de mayor a menor");
-            Console.WriteLine("5. Mostrar marca de clase");
-            Console.WriteLine("6. Salir");
+            Console.WriteLine("5. Mostrar todos los numeros ingresados");
+            Console.WriteLine("6. Mostrar marca de clase");
+            Console.WriteLine("7. Salir");
             Console.Write("Selecciona una opción: ");
         }
 
