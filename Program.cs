@@ -41,7 +41,14 @@ class Program
           Console.WriteLine("Mostrar marca de clase");
           marcaDeClase.marcaClase();
           break;
+
         case "7":
+          Console.Clear();
+          ordenarNumeros.numeros = new List<double>();
+          Console.WriteLine("Datos eliminados");
+          Console.ReadKey();
+          break;
+        case "8":
           Console.WriteLine("Saliendo del programa...");
           return;
         default:
@@ -52,4 +59,6 @@ class Program
       menuPrincipal.MostrarMenu();
     }
   }
+
+  
 }
